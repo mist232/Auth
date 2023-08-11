@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">Login Register UI Design</string>
+
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="login_name_hint">Name</string>
+    <string name="login_mobile_number_hint">Mobile Number</string>
+    <string name="please_login_to_your_account">Please login to your account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="or">OR</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_heading">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="sign_up_button2">Sign Up</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="please_enter_your_code_that_we_have_sent_to_your">Please enter your code that we have sent</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="didn_t_receive_otp">Didn\'t Receive OTP</string>
+    <string name="verify_by">Enter your email and choose either of the following options</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="mobile_number">Login via OTP sent to Mobile Number</string>
+    <string name="Verify">Verify</string>
+    <string name="enter_email">enter email</string>
+    <string name="emailverify">Set new password through email</string>
+    <string name="resend_link">Resend link</string>
+    <string name="didn_t_receive_link">Didn\'t receive link?</string>
+    <string name="please_login_via_link_sent_to_your_email_id">Please login again after setting up new password via link sent to your email id</string>
+    <string name="welcome">Welcome!</string>
+    <string name="verify">Verify</string>
+
+</resources>
+
